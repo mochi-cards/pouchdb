@@ -1,3 +1,13 @@
+To publish:
+
+- `yarn run build`
+- `cd packages/node_modules/pouchdb/`
+- `gitpkg publish`
+
+This will build and create a tag that you can use in your package.json
+
+---
+
 [PouchDB](https://pouchdb.com/) – The Database that Syncs!
 =========
 
