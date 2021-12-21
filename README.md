@@ -1,6 +1,6 @@
 To publish:
 
-- `yarn run build`
+- `yarn` (or `yarn run build`)
 - `cd packages/node_modules/pouchdb/`
 - `gitpkg publish`
 
